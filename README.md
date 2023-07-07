@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Procurando por desafios<br>🤝 Desenvolvedor WEB <br>🌱 Atualmente aprendendo sobre tudo.<br>⚡ Engenharia de Software, Análise e desenvolvimento de sistema, pós-graduação Ciência de dados e inteligência artificial.
+🔭 Procurando por desafios<br>🤝 Desenvolvedor WEB <br> 🤝 Engenharia de Dados - Python <br>🌱 Atualmente aprendendo sobre tudo.<br>⚡ Engenharia de Software, Análise e desenvolvimento de sistema, pós-graduação Ciência de dados e inteligência artificial.
 
 
 ## 🌐 Socials:
